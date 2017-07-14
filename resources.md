@@ -36,7 +36,9 @@ Jupyter notebooks were previously called iPython notebooks as well.
 
 [DataCamp Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook): more detail than most beginners will need, but a useful reference
 
-[Jupyter Notebook tups, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/): covers many of the special features of notebooks
+[Jupyter Notebook Users Manual](https://athena.brynmawr.edu/jupyter/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb): users manual in notebook form.  Includes an explanation of the buttons in the toolbar.
+
+[Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/): covers many of the special features of notebooks
 
 [Example Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks): A collection of interesting example notebooks
 
@@ -45,6 +47,8 @@ Jupyter notebooks were previously called iPython notebooks as well.
 [Reproducible Data Analysis in Jupyter](http://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/): series of videos about gong from personal data exploration to the production of a reproducible analysis file using Jupyter notebooks
 
 [Jupyter Notebook Documentation](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html)
+
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): useful for formatting your notebooks
 
 ### PyCharm
 
