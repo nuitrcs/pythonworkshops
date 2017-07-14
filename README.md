@@ -7,3 +7,5 @@ All Python files are written using Python 3.6.  We recommend the Anaconda distri
 You can preview Jupyter notebooks and Python scripts by clicking on the files above. To download, click on the file, then click the raw button, and then save the file. Or download the whole repository: see the green Clone or Download button above.  (Cloning uses git; if you don't know git, just download the repository as a .zip file.)
 
 Some workshop materials are Python scripts (.py files) instead of Jupyter notebooks.  We recommend the [PyCharm](https://www.jetbrains.com/pycharm/) Python IDE for editing and running Python scripts.  Free [Student licenses](https://www.jetbrains.com/student/) are available for academic use. 
+
+See [Resources](resources.md) for a listing of general Python resources, tutorials, and reference materials.  Additional resources are linked in the individual workshop directories.
