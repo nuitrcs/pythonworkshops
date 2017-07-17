@@ -13,6 +13,8 @@ These are general resources covering multiple data analysis topics.  Resources s
 
 [Data Science Your Way](https://github.com/jadianes/data-science-your-way): GitHub repository with lots of tutorials using Python and R
 
+[Scientific Computing with Python](https://github.com/jrjohansson/scientific-python-lectures): series of lectures as notebooks.  Covering Numpy, Scipy, Matplotlib, and advanced topics like C and Fortran integration and using Python for parallel computing.  
+
 ### Examples
 
 Lots of people post examples of their work publicly.  Here are a few:

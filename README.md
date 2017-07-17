@@ -8,6 +8,10 @@ You can preview Jupyter notebooks and Python scripts by clicking on the files ab
 
 Some workshop materials are Python scripts (.py files) instead of Jupyter notebooks.  We recommend the [PyCharm](https://www.jetbrains.com/pycharm/) Python IDE for editing and running Python scripts.  Free [Student licenses](https://www.jetbrains.com/student/) are available for academic use. 
 
+## More Resources
+
 See [Resources](resources.md) for a listing of general Python resources, tutorials, and reference materials.  Additional resources are linked in the individual workshop directories.
 
-**NOTE**: This repository is still evolving and is not yet complete.
+## Note
+
+This repository is still evolving and is not yet complete.
