@@ -31,9 +31,9 @@ with
 
     conda env create -f environment.yml
 
-This will create an activate the conda environment and install the necessary
-libraries and tools. For Windows users, to activate the environment again later,
-use this command:
+This will create and activate a conda environment called "pythonworkshops" and
+install the necessary libraries and tools. For Windows users, to activate the
+environment again later, use this command:
 
     activate pythonworkshops
 
@@ -41,6 +41,11 @@ And on Linux or OS X, use this command:
 
     source activate pythonworkshops
 
+**Note**: If you are using Anaconda, the default environment should already have
+all of these libraries installed, so creating a separate environment is not
+strictly necessary and you are free to use the default environment. Separate,
+self-contained environments are useful if you work on multiple different
+projects and need to keep their dependencies separate.
 
 ## More Resources
 
