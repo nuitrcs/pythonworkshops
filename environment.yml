@@ -8,8 +8,10 @@ dependencies:
 - ca-certificates
 - certifi
 - colorama
+- cycler
 - decorator
 - entrypoints
+- freetype
 - html5lib
 - icu
 - ipykernel
@@ -26,6 +28,7 @@ dependencies:
 - jupyter_core
 - libpng
 - markupsafe
+- matplotlib
 - mistune
 - nbconvert
 - nbformat
@@ -38,6 +41,7 @@ dependencies:
 - pip
 - prompt_toolkit
 - pygments
+- pyparsing
 - pyqt
 - python=3.6
 - python-dateutil
