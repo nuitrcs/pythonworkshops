@@ -21,17 +21,19 @@ licenses](https://www.jetbrains.com/student/) are available for academic use.
 
 ## Creating Conda environments
 
-Conda, part of the Anaconda distribution, is a utility that creates
-self-contained python environments. This repository contains an environment
-definition file that can be used to create a conda environment that has the
-necessary libraries for the workshops. To use it, open an Anaconda prompt (on
-Windows, Start -> Anaconda3 -> Anaconda Prompt), `cd` to the directory
-containing this repository, then create the environment with
+[Conda](https://conda.io/docs/using/using.html), part of the Anaconda
+distribution, is a utility that creates self-contained python environments. This
+repository contains an environment definition file that can be used to create a
+conda environment that has the necessary libraries for the workshops. To use it,
+open an Anaconda prompt (on Windows, Start -> Anaconda3 -> Anaconda Prompt),
+`cd` to the directory containing this repository, then create the environment
+with
 
     conda env create -f environment.yml
 
 This will create an activate the conda environment and install the necessary
-libraries and tools. For Windows users, to activate the environment again later, use this command:
+libraries and tools. For Windows users, to activate the environment again later,
+use this command:
 
     activate pythonworkshops
 
