@@ -1,0 +1,70 @@
+name: pythonworkshops
+channels:
+- conda-forge
+- anaconda-fusion
+- defaults
+dependencies:
+- bleach
+- ca-certificates
+- certifi
+- colorama
+- decorator
+- entrypoints
+- html5lib
+- icu
+- ipykernel
+- ipython
+- ipython_genutils
+- ipywidgets
+- jedi
+- jinja2
+- jpeg
+- jsonschema
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- libpng
+- markupsafe
+- mistune
+- nbconvert
+- nbformat
+- notebook
+- openssl
+- pandas
+- pandoc
+- pandocfilters
+- pickleshare
+- pip
+- prompt_toolkit
+- pygments
+- pyqt
+- python=3.6
+- python-dateutil
+- pytz
+- pyzmq
+- qt
+- qtconsole
+- setuptools
+- simplegeneric
+- sip
+- six
+- testpath
+- tornado
+- traitlets
+- vc
+- vs2015_runtime
+- wcwidth
+- webencodings
+- wheel
+- widgetsnbextension
+- wincertstore
+- zlib
+- mkl
+- numpy
+- pip:
+  - ipython-genutils
+  - jupyter-client
+  - jupyter-console
+  - jupyter-core
+  - prompt-toolkit
