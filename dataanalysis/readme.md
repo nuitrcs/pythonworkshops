@@ -20,3 +20,5 @@ These are general resources covering multiple data analysis topics.  Resources s
 Lots of people post examples of their work publicly.  Here are a few:
 
 [Pandas and Seaborn example](https://gist.github.com/5agado/ee95008f25730d04bfd0eedd5c36f0ee)
+
+[Classifier Example](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed): uses lots of the tools we cover in this workshop, plus some additional ones.  Also a great example of things that can go wrong with machine learning, and how to avoid some issues with classifiers: "How to make a racist AI without really trying"
