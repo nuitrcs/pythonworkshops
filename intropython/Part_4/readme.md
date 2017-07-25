@@ -1,5 +1,4 @@
-**If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download from the links above, the files won't open because they are web pages, not the raw files.**
-
+**If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
 
 ## Downloading Exercises
 
