@@ -33,6 +33,8 @@ Having trouble with the exercises or still feeling unsure?  If you're looking to
 
 [Practice Python](http://www.practicepython.org/): 36 Python programming challenges with answers.  Exercises ranked by difficulty of 1 to 4 chili peppers.
 
+[Python Exercises](http://www.w3resource.com/python-exercises/): Lots of (usually) short exercises, organized by topic.
+
 ### Reference
 
 [Python Quick Reference](https://github.com/justmarkham/python-reference): useful set of scripts and notebooks by topic to remember (or learn) how to do specific tasks in Python
