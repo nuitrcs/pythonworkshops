@@ -1,0 +1,1 @@
+These scripts are part of the answers to the exercises.  Some of them read input files, but those input files aren't in this directory.  Some exist in the `exercise_input_files` directory; others you should create.  You'll have to modify paths for reading and writing files as appropriate for your file system.
