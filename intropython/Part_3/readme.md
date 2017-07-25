@@ -1,3 +1,6 @@
+**If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download from the links above, the files won't open because they are web pages, not the raw files.**
+
+
 ## Downloading Exercises
 
 To download exercise files, right-click on the links *below*, and choose Save Link As (or the similar option in your browser). 
