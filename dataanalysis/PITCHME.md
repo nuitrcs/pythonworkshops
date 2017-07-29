@@ -6,7 +6,7 @@
 
 ---
 
-## Part 1: How to work with your data
+## Part 1: <br>How to work with your data
 
 NumPy (**_Num_**eric **_Py_**thon)
 
@@ -14,11 +14,11 @@ Pandas (**_pan_**el **_da_**ta)
 
 ---
 
-## Part 2: Creating things with your data
+## Part 2: <br>Creating things with your data
 
 Visualization: matplotlib, Seaborn, others
 
-Models and further analysis 
+Models and further analysis: scikit-learn, SciPy 
 
 ---
 
@@ -28,6 +28,8 @@ Models and further analysis
 
 ## Jupyter notebooks
 good for interactive analysis, presentation, sharing
+
+&nbsp;
 
 ## PyCharm/other IDEs
 For writing scripts that run without your intervention 
@@ -55,11 +57,11 @@ How do these packages fit in with Python?
 ---
 
 * You're working with others using Python
-* You need to use existing code |
-* Lots of data processing before analysis |
-* Address pain points or gaps in other programs |
-* It's what you're most familiar with |
-* Speed is not top priority |
+* You need to use existing code <!-- .element: class="fragment" -->
+* Lots of data processing before analysis <!-- .element: class="fragment" -->
+* Address pain points or gaps in other programs <!-- .element: class="fragment" -->
+* It's what you're most familiar with <!-- .element: class="fragment" -->
+* Speed is not top priority <!-- .element: class="fragment" -->
 
 
 ---
@@ -70,7 +72,7 @@ How do these packages fit in with Python?
 
 NumPy and pandas are (generally) for working with data sets *in memory*
 
-*Reasonably-sized is relative to your computer*
+What's a reasonable size is relative to your computer
 
 ---
 
@@ -80,19 +82,27 @@ Arrays can be multi-dimensional, but can only have one type of data (usually num
 
 ---
 
-NumPy doesn't have a concept of a data set:
-* multiple observations with values/measures on the same set of named dimensions
-* different dimensions may have different types of data
+NumPy doesn't have a concept of a data set
 
 ---
 
-pandas is built on NumPy to add nice features 
-(grouping, merging, time series, handling missing values, easy plotting) 
+## What do we mean by <br>data set?
+
+&bull; multiple observations with values/measures on the same set of named dimensions <!-- .element: class="fragment" -->
+
+&bull; different dimensions may have different types of data <!-- .element: class="fragment" -->
+
+---
+
+pandas is built on NumPy to add nice features<br>
+(grouping, merging, time series, handling missing values, easy plotting)<br>
 for working with *well-structured* data sets 
 
 ---
 
-## What do you mean by well-structured?
+## What do we mean by <br>well-structured?
+
+(see also: [*tidy data*](http://vita.had.co.nz/papers/tidy-data.html))
 
 ---
 
@@ -145,7 +155,7 @@ https://github.com/nuitrcs/pythonworkshops/dataanalysis
 
 # Who are we?
 
-Northwestern IT
+Northwestern IT<br>
 Research Computing Services
 
 http://www.it.northwestern.edu/research/
