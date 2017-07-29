@@ -1,8 +1,10 @@
 # Python for Data Analysis Workshop
 
-The materials here are split into 4 parts ([NumPy](numpy/readme.md), [pandas](pandas/readme.md), [visualization](visualization/readme.md), [models](models/readme.md)), usually covered in separate sessions during in-person workshops.  Each part has lecture notes that the instructor will work from as well as exercise files, both with and without answers (you'll learn more if you don't cheat!).  
+The materials here are split into 4 parts ([NumPy](numpy/readme.md), [pandas](pandas/readme.md), [visualization](visualization/readme.md), [models](models/readme.md)), usually covered in separate sessions during in-person workshops.  Each part has lecture notes that the instructor will work from as well as exercise files (or links), both with and without answers (you'll learn more if you don't cheat!).  
 
 The lecture notes are meant for reference.  The instructor may deviate from them during the workshop, and will cover topics that may not be included there.
+
+Intro presentation: [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/nuitrcs/pythonworkshops/master?grs=github&t=black&p=dataanalysis)
 
 
 ## Resources
@@ -22,3 +24,5 @@ Lots of people post examples of their work publicly.  Here are a few:
 [Pandas and Seaborn example](https://gist.github.com/5agado/ee95008f25730d04bfd0eedd5c36f0ee)
 
 [Classifier Example](https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed): uses lots of the tools we cover in this workshop, plus some additional ones.  Also a great example of things that can go wrong with machine learning, and how to avoid some issues with classifiers: "How to make a racist AI without really trying"
+
+[Chris Albon's Notes](https://chrisalbon.com/): these started as notes for himself, but have grown into a good reference for data analysis tasks 
