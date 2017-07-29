@@ -80,6 +80,8 @@ NumPy provides lower level operations on arrays
 
 Arrays can be multi-dimensional, but can only have one type of data (usually numeric)
 
+Great for numerical matrices, like sensor data or image processing
+
 ---
 
 NumPy doesn't have a concept of a data set
@@ -88,7 +90,7 @@ NumPy doesn't have a concept of a data set
 
 ## What do we mean by <br>data set?
 
-&bull; multiple observations with values/measures on the same set of *named* dimensions <!-- .element: class="fragment" -->
+&bull; multiple observations with values/measures on the same set of <span style="text-decoration: underline;">named</span> dimensions <!-- .element: class="fragment" -->
 
 &bull; different dimensions may have different types of data <!-- .element: class="fragment" -->
 
@@ -97,9 +99,9 @@ NumPy doesn't have a concept of a data set
 pandas is built on NumPy 
 
 pandas adds nice features for working with data sets<br>
-(grouping, merging, time series, handling missing values, easy plotting)
+<small>grouping, merging, time series, handling missing values, easy plotting</small>
 
-Especially *well-structured* data sets 
+Especially good for *well-structured* data sets 
 
 ---
 
@@ -109,12 +111,21 @@ Especially *well-structured* data sets
 
 ---
 
-Rows are observations (often with a name or label)
+&bull; Rows are observations, often with a name or label
 
-Columns are named measures/variables/dimensions
+&bull; Columns are named measures/variables/dimensions
 
-Data is in (possibly multiple) rectangular tables
+&bull; Data is in rectangular tables, one per observational unit
 
+---
+
+## We've got our data, now what?
+
+---
+
+## When you need to do something standard...
+
+...don't reinvent the wheel <!-- .element: class="fragment" -->
 
 ---
 
