@@ -6,6 +6,11 @@
 	color: #B6ACD1;
 }
 
+.reveal a:hover {
+	color: #E4E0EE;
+}
+
 body {
-	color: #4E2A84;
+	color: #401F68;
+	background-color: #401F68;
 }
