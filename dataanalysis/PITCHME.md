@@ -32,7 +32,7 @@ good for interactive analysis, presentation, sharing
 &nbsp;
 
 ## PyCharm/other IDEs
-For writing scripts that run without your intervention 
+for writing scripts that run without your intervention 
 
 ---
 
@@ -61,7 +61,7 @@ How do these packages fit in with Python?
 * Lots of data processing before analysis <!-- .element: class="fragment" -->
 * Address pain points or gaps in other programs <!-- .element: class="fragment" -->
 * It's what you're most familiar with <!-- .element: class="fragment" -->
-* Speed is not top priority <!-- .element: class="fragment" -->
+* Ease of use > speed/optimization <!-- .element: class="fragment" -->
 
 
 ---
@@ -88,15 +88,18 @@ NumPy doesn't have a concept of a data set
 
 ## What do we mean by <br>data set?
 
-&bull; multiple observations with values/measures on the same set of named dimensions <!-- .element: class="fragment" -->
+&bull; multiple observations with values/measures on the same set of *named* dimensions <!-- .element: class="fragment" -->
 
 &bull; different dimensions may have different types of data <!-- .element: class="fragment" -->
 
 ---
 
-pandas is built on NumPy to add nice features<br>
-(grouping, merging, time series, handling missing values, easy plotting)<br>
-for working with *well-structured* data sets 
+pandas is built on NumPy 
+
+pandas adds nice features for working with data sets<br>
+(grouping, merging, time series, handling missing values, easy plotting)
+
+Especially *well-structured* data sets 
 
 ---
 
@@ -108,7 +111,7 @@ for working with *well-structured* data sets
 
 Rows are observations (often with a name or label)
 
-Columns are named measures or variables
+Columns are named measures/variables/dimensions
 
 Data is in (possibly multiple) rectangular tables
 
@@ -118,6 +121,8 @@ Data is in (possibly multiple) rectangular tables
 ## scikit-learn
 
 Machine learning models
+
+&nbsp;
 
 ## SciPy
 
