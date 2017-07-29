@@ -8,9 +8,9 @@
 
 ## Part 1: How to work with your data
 
-NumPy (**Num**eric **Py**thon)
+NumPy (**_Num_**eric **_Py_**thon)
 
-Pandas (**pan**el **da**ta)
+Pandas (**_pan_**el **_da_**ta)
 
 ---
 
@@ -18,19 +18,23 @@ Pandas (**pan**el **da**ta)
 
 Visualization: matplotlib, Seaborn, others
 
-Models/Analysis 
+Models and further analysis 
 
 ---
 
 # Environment
 
-Jupyter notebooks: good for interactive analysis, presentation, sharing
+---
 
-PyCharm/other IDEs: for writing scripts that run without your intervention 
+## Jupyter notebooks
+good for interactive analysis, presentation, sharing
+
+## PyCharm/other IDEs
+For writing scripts that run without your intervention 
 
 ---
 
-# Other Details
+## Other Details
 
 Python 3 (3.6)
 
@@ -46,38 +50,49 @@ How do these packages fit in with Python?
 
 ---
 
-# When to use Python
+## When to use Python
+
+---
 
 * You're working with others using Python
-* You need to use existing code
-* Lots of data processing before analysis
-* Address pain points or gaps in other programs 
-* It's what you're most familiar with
-* Speed is not top priority
+* You need to use existing code |
+* Lots of data processing before analysis |
+* Address pain points or gaps in other programs |
+* It's what you're most familiar with |
+* Speed is not top priority |
 
 
 ---
 
-# When to use NumPy, pandas
-
-NumPy and pandas are (generally) for working with data sets *in memory*: work with reasonably sized data sets or subsets of them
+## When to use NumPy, pandas
 
 ---
 
-NumPy provides lower level operations
+NumPy and pandas are (generally) for working with data sets *in memory*
+
+*Reasonably-sized is relative to your computer*
 
 ---
 
-NumPy doesn't have a concept of a data set 
-(multiple observations with the same set of values/measures on named dimensions; different dimensions may have different types of data)
+NumPy provides lower level operations on arrays
+
+Arrays can be multi-dimensional, but can only have one type of data (usually numeric)
 
 ---
 
-pandas is built on NumPy to add nice features (grouping, merging, time series, handling missing values) for working with *well-structured* data sets 
+NumPy doesn't have a concept of a data set:
+* multiple observations with values/measures on the same set of named dimensions
+* different dimensions may have different types of data
 
 ---
 
-# What do you mean by well-structured?
+pandas is built on NumPy to add nice features 
+(grouping, merging, time series, handling missing values, easy plotting) 
+for working with *well-structured* data sets 
+
+---
+
+## What do you mean by well-structured?
 
 ---
 
@@ -90,7 +105,28 @@ Data is in (possibly multiple) rectangular tables
 
 ---
 
+## scikit-learn
+
+Machine learning models
+
+## SciPy
+
+Math and statistics
+
+---
+
 # Downloading from GitHub
+
+---
+
+## Why are we using GitHub?
+
+* Version control
+* Collaboration
+* File previews
+* It's where code lives online
+
+---
 
 GitHub shows a preview
 
@@ -114,5 +150,3 @@ Research Computing Services
 
 http://www.it.northwestern.edu/research/
 
-
----
