@@ -76,13 +76,17 @@ What's a reasonable size is relative to your computer
 
 ---
 
-NumPy provides lower level operations on arrays
+## NumPy
 
-Arrays can be multi-dimensional, but can only have one type of data (usually numeric)
+&bull; NumPy provides lower level operations on arrays
 
-Great for numerical matrices, like sensor data or image processing
+&bull; Arrays can be multi-dimensional, but can only have one type of data (usually numeric)
+
+&bull; Great for numerical matrices, like sensor data or image processing
 
 ---
+
+## *But*
 
 NumPy doesn't have a concept of a data set
 
@@ -90,18 +94,20 @@ NumPy doesn't have a concept of a data set
 
 ## What do we mean by <br>data set?
 
-&bull; multiple observations with values/measures on the same set of <span style="text-decoration: underline;">named</span> dimensions <!-- .element: class="fragment" -->
+&bull; multiple observations with values/measures on the same set of <span style="text-decoration: underline;">named</span> dimensions 
 
-&bull; different dimensions may have different types of data <!-- .element: class="fragment" -->
+&bull; different dimensions may have different types of data 
 
 ---
 
-pandas is built on NumPy 
+## pandas
 
-pandas adds nice features for working with data sets<br>
-<small>grouping, merging, time series, handling missing values, easy plotting</small>
+&bull; pandas is built on NumPy 
 
-Especially good for *well-structured* data sets 
+&bull; pandas adds nice features for working with data sets<br>
+<small>e.g. grouping, merging, time series, handling missing values, easy plotting</small>
+
+&bull; Especially good for *well-structured* data sets 
 
 ---
 
@@ -119,7 +125,7 @@ Especially good for *well-structured* data sets
 
 ---
 
-## We've got our data, now what?
+## We've got our data, <br>now what?
 
 ---
 
