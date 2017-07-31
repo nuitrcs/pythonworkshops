@@ -22,6 +22,36 @@ Models and further analysis: scikit-learn, SciPy
 
 ---
 
+# Goals
+
+---
+
+## Familiarity with common packages
+
+What exists, where to look for particular functionality
+
+---
+
+## First steps with help
+
+Try out packages when there's someone around to ask for help
+
+---
+
+## Reference examples to come back to 
+
+and where to look for documentation and help
+
+---
+
+## Confidence to take next steps and learn more on your own
+
+---
+
+## Learning to use these packages only comes with practice
+
+---
+
 # Environment
 
 ---
@@ -70,7 +100,7 @@ How do these packages fit in with Python?
 
 ---
 
-NumPy and pandas are (generally) for working with data sets *in memory*
+NumPy and pandas are (generally) for working with data *in memory*
 
 What's a reasonable size is relative to your computer
 
