@@ -17,6 +17,8 @@ These are general resources covering multiple data analysis topics.  Resources s
 
 [Scientific Computing with Python](https://github.com/jrjohansson/scientific-python-lectures): series of lectures as notebooks.  Covering Numpy, Scipy, Matplotlib, and advanced topics like C and Fortran integration and using Python for parallel computing.  
 
+[SciPy Lecture Notes](http://www.scipy-lectures.org/index.html): NumPy, matplotlib, and SciPy math operations
+
 ### Examples
 
 Lots of people post examples of their work publicly.  Here are a few:

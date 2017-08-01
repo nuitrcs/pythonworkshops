@@ -6,7 +6,7 @@ Github user guipsamora has created an excellent repository of pandas exercises f
 
 [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
 
-Let's start with the [first set of exercises](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data) and once you have completed those, pick a set that interests you.
+Start with the [first set of exercises](https://github.com/guipsamora/pandas_exercises/tree/master/01_Getting_%26_Knowing_Your_Data) and once you have completed those, pick a set that interests you.
 
 
 ## Resources
