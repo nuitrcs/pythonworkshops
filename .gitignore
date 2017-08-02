@@ -91,6 +91,9 @@ ENV/
 .spyderproject
 .spyproject
 
+
+dataanalysis/visualization/plot1.pdf
+
 # Rope project settings
 .ropeproject
 
