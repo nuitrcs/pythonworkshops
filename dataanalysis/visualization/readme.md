@@ -11,9 +11,24 @@ pandas plotting is built on [matplotlib](https://matplotlib.org/), as are additi
 There are [other packages](https://blog.modeanalytics.com/python-data-visualization-libraries/) too.
 
 
+## Exercises
+
+**If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
+
+To download exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
+
+[Exercises WITHOUT Answers]()
+
+[Exercises WITH Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/visualization/visualization_exercises_with_answers.ipynb)
+
+
 ## Resources
 
 In addition to the links above, some more resources:
 
 [matplotlib Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf): common commands in a convenient single-page pdf
+
+[matplotlib Tutorial](http://researchcomputing.github.io/meetup_spring_2014/python/doc_mpl.html) from UC Boulder Research Computing
+
+[Python Plotting for Exploratory Data Analysis](http://pythonplot.com/): examples of plots frequently used when exploring data
 

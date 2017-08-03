@@ -1,5 +1,9 @@
 # Pandas
 
+## Downloading Files
+
+You can download all of the files from just this directory as a .zip file from [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/pandas).
+
 ## Exercises
 
 Github user guipsamora has created an excellent repository of pandas exercises for various skill levels, starting from the very basics:
