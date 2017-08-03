@@ -15,6 +15,7 @@ This list has resources that may be useful across workshops.  There may be addit
 
 [Python Tutorial](https://docs.python.org/3/tutorial/index.html): the official Python tutorial.  Think of it more as reference material with lots of examples.  Particularly useful for those who know other programming languages and want to see how to do something in Python.  It teaches Python, not programming.
 
+[Python for Biologists](https://pythonforbiologists.com): introduction to Python focused on tasks (and using examples) that are relevant to many biologists
 
 ## Reference Materials
 
