@@ -17,6 +17,8 @@ This list has resources that may be useful across workshops.  There may be addit
 
 [Python for Biologists](https://pythonforbiologists.com): introduction to Python focused on tasks (and using examples) that are relevant to many biologists
 
+[Useful and Interesting Notebooks](http://nb.bianp.net/sort/views/): collection of useful and/or interesting Jupyter notebooks spanning a range of topics
+
 ## Reference Materials
 
 [Python Basics Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf): one page pdf with reminders of basic string, list, and Numpy array operations
