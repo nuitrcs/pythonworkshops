@@ -21,4 +21,6 @@ These exercises were forked from https://github.com/guipsamora/pandas_exercises.
 
 [Pandas Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf): quick reference for common commands and operations
 
+[Pandas Cheat Sheet 2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf): this one has more data reshaping commands
+
 [Pandas "Cheat Sheet" in longer form](http://nbviewer.jupyter.org/github/pybokeh/ipython_notebooks/blob/master/pandas/PandasCheatSheet.ipynb): collection of short code snippets for common tasks
