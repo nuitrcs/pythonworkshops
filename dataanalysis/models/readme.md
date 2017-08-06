@@ -16,7 +16,7 @@ To download just the exercise files, right-click on the links below, and choose 
 
 [Exercises WITHOUT Answers]()
 
-[Exercises WITH Answers]()
+[Exercises WITH Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/models/models_exercises_with_answers.ipynb)
 
 
 ## Resources
@@ -28,3 +28,6 @@ To download just the exercise files, right-click on the links below, and choose 
 [Model evaluation, model selection, and algorithm selection in machine learning](https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html): this is the first in a three part series of good explanations/tutorials for those looking to better understand how to navigate options in machine learning; written by Sebastian Raschka, a computational biologist (but the material is for a general audience)
 
 [Scikit-Learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf): common models and steps
+
+[Machine Learning with Scikit-Learn](https://github.com/justmarkham/scikit-learn-videos): videos, notebooks, and Kaggle blog posts covering the basic models and ideas behind them
+
