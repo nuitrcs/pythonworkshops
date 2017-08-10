@@ -25,7 +25,7 @@ You can download all of the files from just this directory as a .zip file from [
 
 To download just the exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files (or one above it).  On Windows, navigate to the directory within Jupyter Notebook.
 
-[Exercises WITHOUT Answers]()
+[Exercises WITHOUT Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/visualization/visualization_exercises.ipynb)
 
 [Exercises WITH Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/visualization/visualization_exercises_with_answers.ipynb)
 
