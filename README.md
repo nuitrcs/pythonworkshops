@@ -25,6 +25,3 @@ See [Resources](resources.md) for a listing of general Python resources,
 tutorials, and reference materials.  Additional resources are linked in the
 individual workshop directories.
 
-## Note
-
-This repository is still evolving and is not yet complete.
