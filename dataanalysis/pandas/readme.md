@@ -26,3 +26,5 @@ These exercises were forked from https://github.com/guipsamora/pandas_exercises.
 [Pandas "Cheat Sheet" in longer form](http://nbviewer.jupyter.org/github/pybokeh/ipython_notebooks/blob/master/pandas/PandasCheatSheet.ipynb): collection of short code snippets for common tasks
 
 [Pandas videos](https://github.com/justmarkham/pandas-videos): videos on how to do common tasks in pandas
+
+[Modern Pandas](https://tomaugspurger.github.io/modern-1-intro): once you know the basics, here are tips for getting the most out of pandas
