@@ -12,11 +12,15 @@ You can download all of the files from just this directory as a .zip file from [
 
 ### Downloading Exercises
 
-To download just the exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files (or one above it).  On Windows, navigate to the directory within Jupyter Notebook.
+To download exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type, or remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
+
+On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
 
 [Exercises WITHOUT Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/numpy/numpy_exercises.ipynb)
 
 [Exercises WITH Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/numpy/numpy_exercises_with_answers.ipynb)
+
+Or, download all files in this directory as a *.zip file: [Download zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/numpy)
 
 ## Resources and More Practice
 
