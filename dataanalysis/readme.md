@@ -19,6 +19,8 @@ These are general resources covering multiple data analysis topics.  Resources s
 
 [SciPy Lecture Notes](http://www.scipy-lectures.org/index.html): NumPy, matplotlib, and SciPy math operations
 
+[edX Python for Data Analysis course](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x): full online course, with certificate option
+
 ### Examples
 
 Lots of people post examples of their work publicly.  Here are a few:
