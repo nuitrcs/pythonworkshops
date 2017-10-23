@@ -20,3 +20,11 @@ These exercises were forked from https://github.com/guipsamora/pandas_exercises.
 [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas): learn pandas in 11 lessons through notebooks.  
 
 [Pandas Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf): quick reference for common commands and operations
+
+[Pandas Cheat Sheet 2](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf): this one has more data reshaping commands
+
+[Pandas "Cheat Sheet" in longer form](http://nbviewer.jupyter.org/github/pybokeh/ipython_notebooks/blob/master/pandas/PandasCheatSheet.ipynb): collection of short code snippets for common tasks
+
+[Pandas videos](https://github.com/justmarkham/pandas-videos): videos on how to do common tasks in pandas
+
+[Modern Pandas](https://tomaugspurger.github.io/modern-1-intro): once you know the basics, here are tips for getting the most out of pandas

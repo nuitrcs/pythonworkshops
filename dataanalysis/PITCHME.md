@@ -200,7 +200,7 @@ You need to download the Raw source
 
 ---
 
-https://github.com/nuitrcs/pythonworkshops/dataanalysis
+https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis
 
 ---
 

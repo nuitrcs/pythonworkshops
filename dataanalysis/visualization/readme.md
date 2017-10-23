@@ -11,13 +11,23 @@ pandas plotting is built on [matplotlib](https://matplotlib.org/), as are additi
 There are [other packages](https://blog.modeanalytics.com/python-data-visualization-libraries/) too.
 
 
-## Exercises
+## Downloading Files
+
+### Individual Files
 
 **If you download files from the links above, you have to click through to the RAW version of the notebook and download that.  If you download directly from the links above, the files won't open because they are web pages, not the raw files.**
 
-To download exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
+### Entire directory
 
-[Exercises WITHOUT Answers]()
+You can download all of the files from just this directory as a .zip file from [this link](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nuitrcs/pythonworkshops/tree/master/dataanalysis/visualization).
+
+### Downloading Exercises
+
+To download exercise files, right-click on the links below, and choose Save Link As (or the similar option in your browser).  Make sure to choose All file types as the content type, or remove any .txt or similar extensions from the file when you save it.  The files should be *.ipynb files, with no additional file type extensions.
+
+On a Mac, to open the files in Jupyter Notebook, start Jupyter Notebook from the folder where you saved the files.  On Windows, navigate to the directory within Jupyter Notebook.
+
+[Exercises WITHOUT Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/visualization/visualization_exercises.ipynb)
 
 [Exercises WITH Answers](https://github.com/nuitrcs/pythonworkshops/raw/master/dataanalysis/visualization/visualization_exercises_with_answers.ipynb)
 
