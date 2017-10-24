@@ -1,0 +1,2 @@
+with open('filename', 'mode') as fileobject 
+You don't need to worry about closing the file

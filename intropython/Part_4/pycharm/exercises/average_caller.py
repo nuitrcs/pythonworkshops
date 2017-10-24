@@ -1,0 +1,3 @@
+import average
+
+average.average()

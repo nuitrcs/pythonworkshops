@@ -1,0 +1,212 @@
+<html>
+<head>
+<title>file_io.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: #000000; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(153,153,136); font-style: italic; }
+.s1 { color: rgb(0,0,0); }
+.s2 { color: rgb(0,0,0); font-weight: bold; }
+.s3 { color: rgb(0,153,153); }
+.s4 { color: rgb(0,128,128); font-weight: bold; }
+.s5 { color: rgb(0,0,128); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#f8f8ff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+file_io.py</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<a name="l1"><span class="ln">1    </span></a><span class="s0">## THIS FILE IS FOR PYTHON IO TRAINING</span><span class="s1"> 
+<a name="l2"><span class="ln">2    </span></a> 
+<a name="l3"><span class="ln">3    </span></a></span><span class="s0">## Through out this training we have used `print`</span><span class="s1"> 
+<a name="l4"><span class="ln">4    </span></a></span><span class="s0">## statement to produce output that is created during</span><span class="s1"> 
+<a name="l5"><span class="ln">5    </span></a></span><span class="s0">## run time.</span><span class="s1"> 
+<a name="l6"><span class="ln">6    </span></a> 
+<a name="l7"><span class="ln">7    </span></a></span><span class="s0">## We have seen print statements as below:</span><span class="s1"> 
+<a name="l8"><span class="ln">8    </span></a> 
+<a name="l9"><span class="ln">9    </span></a>my_lucky_number</span><span class="s2">=</span><span class="s3">948</span><span class="s1"> 
+<a name="l10"><span class="ln">10   </span></a>print(</span><span class="s4">'My lucky number is'</span><span class="s1">, my_lucky_number) 
+<a name="l11"><span class="ln">11   </span></a> 
+<a name="l12"><span class="ln">12   </span></a></span><span class="s0">## A different method to do the same is to use</span><span class="s1"> 
+<a name="l13"><span class="ln">13   </span></a></span><span class="s0">## srt.format() method</span><span class="s1"> 
+<a name="l14"><span class="ln">14   </span></a> 
+<a name="l15"><span class="ln">15   </span></a>my_lucky_number</span><span class="s2">=</span><span class="s3">948</span><span class="s1"> 
+<a name="l16"><span class="ln">16   </span></a>print(</span><span class="s4">'My lucky number is {0}'</span><span class="s1">.format(my_lucky_number)) 
+<a name="l17"><span class="ln">17   </span></a> 
+<a name="l18"><span class="ln">18   </span></a></span><span class="s0">## The next two commands also show how to introduce multi-line</span><span class="s1"> 
+<a name="l19"><span class="ln">19   </span></a></span><span class="s0">## commands</span><span class="s1"> 
+<a name="l20"><span class="ln">20   </span></a> 
+<a name="l21"><span class="ln">21   </span></a>print(</span><span class="s4">'My name is {1}, your name is {0}, and his name is </span><span class="s5">\ 
+<a name="l22"><span class="ln">22   </span></a></span><span class="s4">{otherperson}'</span><span class="s1">.format(</span><span class="s4">'Janna'</span><span class="s1">, </span><span class="s4">'Alper'</span><span class="s1">, otherperson</span><span class="s2">=</span><span class="s4">'Boby'</span><span class="s1">)) 
+<a name="l23"><span class="ln">23   </span></a> 
+<a name="l24"><span class="ln">24   </span></a>print(</span><span class="s4">'My name is {1}, your name is {0}, and his name is '</span><span class="s1"> 
+<a name="l25"><span class="ln">25   </span></a>      </span><span class="s4">'{otherperson}'</span><span class="s1">.format(</span><span class="s4">'Janna'</span><span class="s1">, </span><span class="s4">'Alper'</span><span class="s1">, otherperson</span><span class="s2">=</span><span class="s4">'Boby'</span><span class="s1">)) 
+<a name="l26"><span class="ln">26   </span></a> 
+<a name="l27"><span class="ln">27   </span></a>my_pi</span><span class="s2">=</span><span class="s3">3.14159265359</span><span class="s1"> 
+<a name="l28"><span class="ln">28   </span></a>print(</span><span class="s4">'Pi is equal to {0:10.4f}'</span><span class="s1">.format(my_pi)) 
+<a name="l29"><span class="ln">29   </span></a> 
+<a name="l30"><span class="ln">30   </span></a>my_pi</span><span class="s2">=</span><span class="s3">3.14159265359</span><span class="s1"> 
+<a name="l31"><span class="ln">31   </span></a>print(</span><span class="s4">'Pi is equal to {0:10.7f}'</span><span class="s1">.format(my_pi)) 
+<a name="l32"><span class="ln">32   </span></a> 
+<a name="l33"><span class="ln">33   </span></a></span><span class="s0">## An old formatting style</span><span class="s1"> 
+<a name="l34"><span class="ln">34   </span></a>my_pi</span><span class="s2">=</span><span class="s3">3.14159265359</span><span class="s1"> 
+<a name="l35"><span class="ln">35   </span></a>print(</span><span class="s4">'Pi is equal to %10.7f' </span><span class="s2">% </span><span class="s1">my_pi) 
+<a name="l36"><span class="ln">36   </span></a> 
+<a name="l37"><span class="ln">37   </span></a> 
+<a name="l38"><span class="ln">38   </span></a></span><span class="s0">## We could also provide data to Python</span><span class="s1"> 
+<a name="l39"><span class="ln">39   </span></a></span><span class="s0">## from outside.</span><span class="s1"> 
+<a name="l40"><span class="ln">40   </span></a> 
+<a name="l41"><span class="ln">41   </span></a></span><span class="s0">## The built-in function `input()` can be used</span><span class="s1"> 
+<a name="l42"><span class="ln">42   </span></a></span><span class="s0">## to read from the standard input channel.</span><span class="s1"> 
+<a name="l43"><span class="ln">43   </span></a> 
+<a name="l44"><span class="ln">44   </span></a>your_name</span><span class="s2">=</span><span class="s1">input(</span><span class="s4">&quot;Enter your name:&quot;</span><span class="s1">) 
+<a name="l45"><span class="ln">45   </span></a>print(</span><span class="s4">&quot;Your name is:&quot;</span><span class="s1">, your_name) 
+<a name="l46"><span class="ln">46   </span></a> 
+<a name="l47"><span class="ln">47   </span></a></span><span class="s0">## Another kind of interaction of the code with</span><span class="s1"> 
+<a name="l48"><span class="ln">48   </span></a></span><span class="s0">## the outside world is through files.</span><span class="s1"> 
+<a name="l49"><span class="ln">49   </span></a> 
+<a name="l50"><span class="ln">50   </span></a></span><span class="s0">## The simplest and easiest kind of data to work with is</span><span class="s1"> 
+<a name="l51"><span class="ln">51   </span></a></span><span class="s0">## accessing files on the same computer as your script.</span><span class="s1"> 
+<a name="l52"><span class="ln">52   </span></a></span><span class="s0">## Python has a built-in way to open files, the</span><span class="s1"> 
+<a name="l53"><span class="ln">53   </span></a></span><span class="s0">## open() function.</span><span class="s1"> 
+<a name="l54"><span class="ln">54   </span></a> 
+<a name="l55"><span class="ln">55   </span></a></span><span class="s0">## open() returns a &quot;file object&quot;, which is basically</span><span class="s1"> 
+<a name="l56"><span class="ln">56   </span></a></span><span class="s0">## a thing that knows how to read and write the file</span><span class="s1"> 
+<a name="l57"><span class="ln">57   </span></a></span><span class="s0">## whose name you pass into the open() function.</span><span class="s1"> 
+<a name="l58"><span class="ln">58   </span></a> 
+<a name="l59"><span class="ln">59   </span></a></span><span class="s0">## fp = open(filename,mode)</span><span class="s1"> 
+<a name="l60"><span class="ln">60   </span></a> 
+<a name="l61"><span class="ln">61   </span></a></span><span class="s0">## The first argument to open() is the path to the file</span><span class="s1"> 
+<a name="l62"><span class="ln">62   </span></a></span><span class="s0">## to open, and the second argument is the &quot;mode&quot; which</span><span class="s1"> 
+<a name="l63"><span class="ln">63   </span></a></span><span class="s0">## identifies your intention to open the file. The mode</span><span class="s1"> 
+<a name="l64"><span class="ln">64   </span></a></span><span class="s0">## is usually one of the following:</span><span class="s1"> 
+<a name="l65"><span class="ln">65   </span></a></span><span class="s0">##    'r' for read-only</span><span class="s1"> 
+<a name="l66"><span class="ln">66   </span></a></span><span class="s0">##    'w' to write to a file by overwriting</span><span class="s1"> 
+<a name="l67"><span class="ln">67   </span></a></span><span class="s0">##    'a' to write to a file by appending at the end</span><span class="s1"> 
+<a name="l68"><span class="ln">68   </span></a></span><span class="s0">##    'r+' to read and write</span><span class="s1"> 
+<a name="l69"><span class="ln">69   </span></a> 
+<a name="l70"><span class="ln">70   </span></a></span><span class="s0">## A file object has methods. `write()` takes a</span><span class="s1"> 
+<a name="l71"><span class="ln">71   </span></a></span><span class="s0">## message and writes to the file object. `close()`</span><span class="s1"> 
+<a name="l72"><span class="ln">72   </span></a></span><span class="s0">## method closes the pipe to the file.</span><span class="s1"> 
+<a name="l73"><span class="ln">73   </span></a> 
+<a name="l74"><span class="ln">74   </span></a>msg1</span><span class="s2">=</span><span class="s4">'First line of file'</span><span class="s1"> 
+<a name="l75"><span class="ln">75   </span></a> 
+<a name="l76"><span class="ln">76   </span></a>fp </span><span class="s2">= </span><span class="s1">open(</span><span class="s4">'log.txt'</span><span class="s1">,</span><span class="s4">'w'</span><span class="s1">) 
+<a name="l77"><span class="ln">77   </span></a>fp.write(msg1) 
+<a name="l78"><span class="ln">78   </span></a>fp.write(</span><span class="s4">'</span><span class="s5">\n</span><span class="s4">'</span><span class="s1">) 
+<a name="l79"><span class="ln">79   </span></a> 
+<a name="l80"><span class="ln">80   </span></a></span><span class="s0"># fp.write(msg1,'\n') # Show fileobject.write() takes exactly one argument</span><span class="s1"> 
+<a name="l81"><span class="ln">81   </span></a></span><span class="s0"># fp.write(msg1+'\n') # but this is acceptable</span><span class="s1"> 
+<a name="l82"><span class="ln">82   </span></a> 
+<a name="l83"><span class="ln">83   </span></a>msg2</span><span class="s2">=</span><span class="s4">'Second line of file'</span><span class="s1"> 
+<a name="l84"><span class="ln">84   </span></a>fp.write(msg2) 
+<a name="l85"><span class="ln">85   </span></a>fp.write(</span><span class="s4">'</span><span class="s5">\n</span><span class="s4">'</span><span class="s1">) 
+<a name="l86"><span class="ln">86   </span></a> 
+<a name="l87"><span class="ln">87   </span></a>print(fp.closed) </span><span class="s0"># We are querying if the file is closed</span><span class="s1"> 
+<a name="l88"><span class="ln">88   </span></a> 
+<a name="l89"><span class="ln">89   </span></a></span><span class="s2">if </span><span class="s1">(</span><span class="s2">not </span><span class="s1">fp.closed)</span><span class="s2">:</span><span class="s1"> 
+<a name="l90"><span class="ln">90   </span></a>    fp.close() </span><span class="s0"># Don't forget to close your files when you are done</span><span class="s1"> 
+<a name="l91"><span class="ln">91   </span></a> 
+<a name="l92"><span class="ln">92   </span></a>print(fp.closed) </span><span class="s0"># We are querying if the file is closed</span><span class="s1"> 
+<a name="l93"><span class="ln">93   </span></a> 
+<a name="l94"><span class="ln">94   </span></a></span><span class="s0">## Two lines are written to log.txt file</span><span class="s1"> 
+<a name="l95"><span class="ln">95   </span></a> 
+<a name="l96"><span class="ln">96   </span></a>fp </span><span class="s2">= </span><span class="s1">open(</span><span class="s4">'log.txt'</span><span class="s1">,</span><span class="s4">'w'</span><span class="s1">) 
+<a name="l97"><span class="ln">97   </span></a>msg3</span><span class="s2">=</span><span class="s4">'Third line of the file'</span><span class="s1"> 
+<a name="l98"><span class="ln">98   </span></a>fp.write(msg3) 
+<a name="l99"><span class="ln">99   </span></a>fp.write(</span><span class="s4">'</span><span class="s5">\n</span><span class="s4">'</span><span class="s1">) 
+<a name="l100"><span class="ln">100  </span></a> 
+<a name="l101"><span class="ln">101  </span></a>fp.close() 
+<a name="l102"><span class="ln">102  </span></a> 
+<a name="l103"><span class="ln">103  </span></a></span><span class="s0">## As you see we overwrote the two lines we had</span><span class="s1"> 
+<a name="l104"><span class="ln">104  </span></a></span><span class="s0">## in the file. Let's try appending</span><span class="s1"> 
+<a name="l105"><span class="ln">105  </span></a> 
+<a name="l106"><span class="ln">106  </span></a>fp </span><span class="s2">= </span><span class="s1">open(</span><span class="s4">'log.txt'</span><span class="s1">,</span><span class="s4">'a'</span><span class="s1">) 
+<a name="l107"><span class="ln">107  </span></a>msg4</span><span class="s2">=</span><span class="s4">'Fourth line of the file'</span><span class="s1"> 
+<a name="l108"><span class="ln">108  </span></a>fp.write(msg4) 
+<a name="l109"><span class="ln">109  </span></a>fp.write(</span><span class="s4">'</span><span class="s5">\n</span><span class="s4">'</span><span class="s1">) 
+<a name="l110"><span class="ln">110  </span></a> 
+<a name="l111"><span class="ln">111  </span></a>fp.close() 
+<a name="l112"><span class="ln">112  </span></a> 
+<a name="l113"><span class="ln">113  </span></a></span><span class="s0">## Let's look at some other methods of</span><span class="s1"> 
+<a name="l114"><span class="ln">114  </span></a></span><span class="s0">## file objects</span><span class="s1"> 
+<a name="l115"><span class="ln">115  </span></a> 
+<a name="l116"><span class="ln">116  </span></a></span><span class="s0">## `read()` returns the entire contents of the file</span><span class="s1"> 
+<a name="l117"><span class="ln">117  </span></a> 
+<a name="l118"><span class="ln">118  </span></a></span><span class="s0">## `readline()` returns one line at a time from the file.</span><span class="s1"> 
+<a name="l119"><span class="ln">119  </span></a> 
+<a name="l120"><span class="ln">120  </span></a></span><span class="s0">## `tell()` returns the current position of the file</span><span class="s1"> 
+<a name="l121"><span class="ln">121  </span></a></span><span class="s0">## read/write pointer within the file</span><span class="s1"> 
+<a name="l122"><span class="ln">122  </span></a> 
+<a name="l123"><span class="ln">123  </span></a></span><span class="s0">## `seek()` changes the position in the file object.</span><span class="s1"> 
+<a name="l124"><span class="ln">124  </span></a></span><span class="s0">## fp.seek(offset, from_what) : from_what indicates</span><span class="s1"> 
+<a name="l125"><span class="ln">125  </span></a></span><span class="s0">## the reference point, offset is the position to be</span><span class="s1"> 
+<a name="l126"><span class="ln">126  </span></a></span><span class="s0">## moved reference to from_what. from_what can be 0</span><span class="s1"> 
+<a name="l127"><span class="ln">127  </span></a></span><span class="s0">## (default, beginning of the file), 1 (current position)</span><span class="s1"> 
+<a name="l128"><span class="ln">128  </span></a></span><span class="s0">## and 2 (end of file)</span><span class="s1"> 
+<a name="l129"><span class="ln">129  </span></a> 
+<a name="l130"><span class="ln">130  </span></a> 
+<a name="l131"><span class="ln">131  </span></a>fp </span><span class="s2">= </span><span class="s1">open(</span><span class="s4">'log.txt'</span><span class="s1">,</span><span class="s4">'r'</span><span class="s1">) 
+<a name="l132"><span class="ln">132  </span></a> 
+<a name="l133"><span class="ln">133  </span></a>print(fp.read(</span><span class="s3">1</span><span class="s1">)) 
+<a name="l134"><span class="ln">134  </span></a>print(fp.read(</span><span class="s3">1</span><span class="s1">)) 
+<a name="l135"><span class="ln">135  </span></a>print(</span><span class="s4">'Current position in the file:'</span><span class="s1">, fp.tell()) 
+<a name="l136"><span class="ln">136  </span></a>fp.seek(</span><span class="s3">1 </span><span class="s1">, </span><span class="s3">0</span><span class="s1">) 
+<a name="l137"><span class="ln">137  </span></a>print(</span><span class="s4">'Current position in the file:'</span><span class="s1">, fp.tell()) 
+<a name="l138"><span class="ln">138  </span></a>print(fp.readline()) 
+<a name="l139"><span class="ln">139  </span></a> 
+<a name="l140"><span class="ln">140  </span></a>print(fp.read()) 
+<a name="l141"><span class="ln">141  </span></a> 
+<a name="l142"><span class="ln">142  </span></a>fp.closed 
+<a name="l143"><span class="ln">143  </span></a> 
+<a name="l144"><span class="ln">144  </span></a></span><span class="s2">if </span><span class="s1">(</span><span class="s2">not </span><span class="s1">fp.closed)</span><span class="s2">: </span><span class="s0"># We are querying if the file is closed</span><span class="s1"> 
+<a name="l145"><span class="ln">145  </span></a>    fp.close 
+<a name="l146"><span class="ln">146  </span></a> 
+<a name="l147"><span class="ln">147  </span></a></span><span class="s0">## Closing file:</span><span class="s1"> 
+<a name="l148"><span class="ln">148  </span></a></span><span class="s0"># - Avoids using unnecessary system resources</span><span class="s1"> 
+<a name="l149"><span class="ln">149  </span></a></span><span class="s0"># in the form of file descriptors on handles</span><span class="s1"> 
+<a name="l150"><span class="ln">150  </span></a></span><span class="s0"># - Avoids race conditions and code failures</span><span class="s1"> 
+<a name="l151"><span class="ln">151  </span></a></span><span class="s0"># depending on the access rights</span><span class="s1"> 
+<a name="l152"><span class="ln">152  </span></a> 
+<a name="l153"><span class="ln">153  </span></a></span><span class="s0">## If you don't want to concern about</span><span class="s1"> 
+<a name="l154"><span class="ln">154  </span></a></span><span class="s0">## closing the file use `with open() as`</span><span class="s1"> 
+<a name="l155"><span class="ln">155  </span></a></span><span class="s0">## statement</span><span class="s1"> 
+<a name="l156"><span class="ln">156  </span></a> 
+<a name="l157"><span class="ln">157  </span></a></span><span class="s2">with </span><span class="s1">open(</span><span class="s4">'with_open.txt'</span><span class="s1">, </span><span class="s4">'w'</span><span class="s1">) </span><span class="s2">as </span><span class="s1">my_file</span><span class="s2">:</span><span class="s1"> 
+<a name="l158"><span class="ln">158  </span></a>    my_file.write(</span><span class="s4">&quot;with open('filename', 'mode') as fileobject </span><span class="s5">\n</span><span class="s4">&quot;</span><span class="s1">) 
+<a name="l159"><span class="ln">159  </span></a>    my_file.write(</span><span class="s4">&quot;You don't need to worry about closing the file&quot;</span><span class="s1">) 
+<a name="l160"><span class="ln">160  </span></a> 
+<a name="l161"><span class="ln">161  </span></a></span><span class="s2">if </span><span class="s1">my_file.closed </span><span class="s2">:</span><span class="s1"> 
+<a name="l162"><span class="ln">162  </span></a>    print(</span><span class="s4">'my_file is closed'</span><span class="s1">) 
+<a name="l163"><span class="ln">163  </span></a> 
+<a name="l164"><span class="ln">164  </span></a> 
+<a name="l165"><span class="ln">165  </span></a></span><span class="s0">## JSON (JavaScript Object Notation)</span><span class="s1"> 
+<a name="l166"><span class="ln">166  </span></a> 
+<a name="l167"><span class="ln">167  </span></a></span><span class="s0">## The json library can parse JSON from</span><span class="s1"> 
+<a name="l168"><span class="ln">168  </span></a></span><span class="s0">## strings or files. The library parses</span><span class="s1"> 
+<a name="l169"><span class="ln">169  </span></a></span><span class="s0">## JSON into a Python dictionary or list.</span><span class="s1"> 
+<a name="l170"><span class="ln">170  </span></a></span><span class="s0">## It can also convert Python dictionaries</span><span class="s1"> 
+<a name="l171"><span class="ln">171  </span></a></span><span class="s0">## or lists into JSON strings.</span><span class="s1"> 
+<a name="l172"><span class="ln">172  </span></a> 
+<a name="l173"><span class="ln">173  </span></a></span><span class="s2">import </span><span class="s1">json 
+<a name="l174"><span class="ln">174  </span></a>my_string </span><span class="s2">= </span><span class="s4">'{&quot;first_name&quot;: &quot;Zaphod&quot;, &quot;last_name&quot;:&quot;Beeblebrox&quot;,</span><span class="s5">\ 
+<a name="l175"><span class="ln">175  </span></a></span><span class="s4"> &quot;occupation&quot;:&quot;Galactic President&quot;}'</span><span class="s1"> 
+<a name="l176"><span class="ln">176  </span></a> 
+<a name="l177"><span class="ln">177  </span></a>print(type(my_string)) 
+<a name="l178"><span class="ln">178  </span></a> 
+<a name="l179"><span class="ln">179  </span></a>parsed_json </span><span class="s2">= </span><span class="s1">json.loads(my_string) 
+<a name="l180"><span class="ln">180  </span></a>print(parsed_json[</span><span class="s4">'first_name'</span><span class="s1">]) 
+<a name="l181"><span class="ln">181  </span></a> 
+<a name="l182"><span class="ln">182  </span></a>my_dictionary </span><span class="s2">= </span><span class="s1">{ 
+<a name="l183"><span class="ln">183  </span></a>    </span><span class="s4">'first_name'</span><span class="s2">: </span><span class="s4">'Zaphod'</span><span class="s1">, 
+<a name="l184"><span class="ln">184  </span></a>    </span><span class="s4">'second_name'</span><span class="s2">: </span><span class="s4">'Beeblebrox'</span><span class="s1">, 
+<a name="l185"><span class="ln">185  </span></a>    </span><span class="s4">'occupation'</span><span class="s2">: </span><span class="s1">[</span><span class="s4">'Galactic President'</span><span class="s1">, </span><span class="s4">'Thief'</span><span class="s1">], 
+<a name="l186"><span class="ln">186  </span></a>} 
+<a name="l187"><span class="ln">187  </span></a> 
+<a name="l188"><span class="ln">188  </span></a>print(json.dumps(my_dictionary)) 
+<a name="l189"><span class="ln">189  </span></a>print(type(json.dumps(my_dictionary)))</span></pre>
+</body>
+</html>
