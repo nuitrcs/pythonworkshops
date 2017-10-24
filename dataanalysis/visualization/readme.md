@@ -42,3 +42,5 @@ In addition to the links above, some more resources:
 
 [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/): examples of plots frequently used when exploring data
 
+[The Python Graph Gallery](https://python-graph-gallery.com/) provides example plots with the code to make them; spans across different visualization libraries 
+
