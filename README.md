@@ -19,6 +19,12 @@ notebooks.  We recommend the [PyCharm](https://www.jetbrains.com/pycharm/)
 Python IDE for editing and running Python scripts.  Free [Student
 licenses](https://www.jetbrains.com/student/) are available for academic use. 
 
+## Workshop Materials
+
+Many of the workshop materials are in this repository.  
+
+[Visualization](https://github.com/nuitrcs/pythonvisualization) materials are in a separate repository.
+
 ## More Resources
 
 See [Resources](resources.md) for a listing of general Python resources,
