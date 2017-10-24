@@ -1,6 +1,8 @@
 # Python for Data Analysis Workshop
 
-The materials here are split into 4 parts ([NumPy](numpy/readme.md), [pandas](pandas/readme.md), [visualization](visualization/readme.md), [models](models/readme.md)), usually covered in separate sessions during in-person workshops.  Each part has lecture notes that the instructor will work from as well as exercise files (or links), both with and without answers (you'll learn more if you don't cheat!).  
+The materials here include ([NumPy](numpy/readme.md), [pandas](pandas/readme.md), and [models](models/readme.md)), usually covered in separate sessions during in-person workshops.  Each part has lecture notes that the instructor will work from as well as exercise files (or links), both with and without answers (you'll learn more if you don't cheat!).  
+
+The [visualization](https://github.com/nuitrcs/pythonvisualization) workshop materials that were here have been split off into a separate repository.
 
 The lecture notes are meant for reference.  The instructor may deviate from them during the workshop, and will cover topics that may not be included there.
 
