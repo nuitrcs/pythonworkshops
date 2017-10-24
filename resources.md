@@ -11,7 +11,7 @@ This list has resources that may be useful across workshops.  There may be addit
 
 [UC Boulder Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013): workshop materials from some of our research computing colleagues at UC Boulder.  Includes exercises.
 
-[A Crash Course in Python for Scientists](http://nbviewer.jupyter.org/gist/rpmuller/5920182): just what is says, in a notebook.  From Rick Muller at Sandia National Labs.
+[A Crash Course in Python for Scientists](http://nbviewer.jupyter.org/gist/rpmuller/5920182): just what it says, in a notebook.  From Rick Muller at Sandia National Labs.
 
 [Python Tutorial](https://docs.python.org/3/tutorial/index.html): the official Python tutorial.  Think of it more as reference material with lots of examples.  Particularly useful for those who know other programming languages and want to see how to do something in Python.  It teaches Python, not programming.
 
