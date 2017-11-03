@@ -102,3 +102,5 @@ dataanalysis/visualization/plot1.pdf
 
 # mypy
 .mypy_cache/
+
+dataanalysis/pandas/data/names/*
