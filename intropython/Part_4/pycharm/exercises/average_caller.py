@@ -1,3 +1,0 @@
-import average
-
-average.average()
