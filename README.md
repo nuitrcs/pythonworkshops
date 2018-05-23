@@ -1,33 +1,26 @@
 # Northwestern Research Computing Python Workshops
 
-This repository contains materials for Python workshops taught by [Research
-Computing Services](http://www.it.northwestern.edu/research/).
+This repository is a clearing house for resources for individual Python workshops from [Research Computing Services](http://www.it.northwestern.edu/research/).  Materials from past workshops have been moved to separate repositories.  See the links below for individual repositories corresponding to workshop topics.  
 
-All Python files are written using Python 3.6.  We recommend the Anaconda
-distribution of Python ([download](https://www.continuum.io/downloads)), which
-includes many packages used by the scripts above, as well as Jupyter for running
-notebooks.
+# Workshops
 
-You can preview Jupyter notebooks and Python scripts by clicking on the files
-above. To download, click on the file, then click the raw button, and then save
-the file. Or download the whole repository: see the green Clone or Download
-button above.  (Cloning uses git; if you don't know git, just download the
-repository as a .zip file.)
+[Intro to Programming with Python]()
 
-Some workshop materials are Python scripts (.py files) instead of Jupyter
-notebooks.  We recommend the [PyCharm](https://www.jetbrains.com/pycharm/)
-Python IDE for editing and running Python scripts.  Free [Student
-licenses](https://www.jetbrains.com/student/) are available for academic use. 
+[Python Visualization]()
 
-## Workshop Materials
+[Pandas]()
 
-Many of the workshop materials are in this repository.  
+[Numpy/Scipy]()
 
-[Visualization](https://github.com/nuitrcs/pythonvisualization) materials are in a separate repository.
+[Statistical and Machine Learning Models]()
 
-## More Resources
+# Python Resources
 
 See [Resources](resources.md) for a listing of general Python resources,
 tutorials, and reference materials.  Additional resources are linked in the
-individual workshop directories.
+individual workshop repositories.
+
+# Datasets
+
+A few datasets for use across workshops are stored in this repository in the datasets directory.
 
