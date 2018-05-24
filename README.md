@@ -4,15 +4,15 @@ This repository is a clearing house for resources for individual Python workshop
 
 # Workshops
 
-[Intro to Programming with Python]()
+[Intro to Programming with Python](https://github.com/nuitrcs/intro-programming-python)
 
-[Python Visualization]()
+[Python Visualization](https://github.com/nuitrcs/pythonvisualization)
 
-[Pandas]()
+[Pandas](https://github.com/nuitrcs/pandas-workshop)
 
-[Numpy/Scipy]()
+[Numpy/Scipy](https://github.com/nuitrcs/numpy-scipy-workshop)
 
-[Statistical and Machine Learning Models]()
+[Statistical and Machine Learning Models](https://github.com/nuitrcs/python-models)
 
 # Python Resources
 
