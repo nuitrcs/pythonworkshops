@@ -35,7 +35,9 @@ This list has resources that may be useful across workshops.  There may be addit
 
 Jupyter notebooks were previously called iPython notebooks as well.
 
-[Jupyter Notebook Beginner Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): a good place to start
+[Jupyter Notebook Video Tour](https://www.youtube.com/watch?v=HW29067qVWk): if you like videos, this one give you an overview of how to use Jupyter Notebook
+
+[Jupyter Notebook Beginner Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): a good place to start with witten documentation
 
 [DataCamp Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook): more detail than most beginners will need, but a useful reference
 
