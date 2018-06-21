@@ -4,7 +4,7 @@ This repository is a clearing house for resources for individual Python workshop
 
 # Workshops
 
-[Intro to Programming with Python](https://github.com/nuitrcs/intro-programming-python)
+[Intro to Programming with Python](https://github.com/nuitrcs/intro-programming-python-jun-2018)
 
 [Python Visualization](https://github.com/nuitrcs/pythonvisualization)
 
@@ -13,6 +13,13 @@ This repository is a clearing house for resources for individual Python workshop
 [Numpy/Scipy](https://github.com/nuitrcs/numpy-scipy-workshop)
 
 [Statistical and Machine Learning Models](https://github.com/nuitrcs/python-models)
+
+## Past Workshops
+
+Previous versions of Python workshops.
+
+[Intro to Programming with Python](https://github.com/nuitrcs/intro-programming-python)
+
 
 # Python Resources
 
