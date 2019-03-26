@@ -21,7 +21,9 @@ This list has resources that may be useful across workshops.  There may be addit
 
 ## Exercises
 
-[Python Exercises with Solutions](https://www.w3resource.com/python-exercises/)
+[Python Exercises with Solutions](https://www.w3resource.com/python-exercises/): lots of traditional programming exercises with solutions
+
+[wtfiswronghere](https://github.com/qxf2/wtfiswronghere): Practice Python debugging and error fixing.
 
 ## Reference Materials
 
@@ -61,12 +63,12 @@ Jupyter notebooks were previously called iPython notebooks as well.
 
 ### PyCharm
 
+PyCharm is an IDE that was used in workshops before.  Now, we mostly use Spyder in workshops.
+
 [PyCharm Help](https://www.jetbrains.com/help/pycharm/meet-pycharm.html)
 
 [Getting Started with PyCharm Videos](https://www.youtube.com/watch?v=5rSBPGGLkW0): see in particular [Running Python Code](https://www.youtube.com/watch?v=JLfd9LOdu_U&t=15s)
 
 [PyCharm Videos](https://www.youtube.com/playlist?list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz)
 
-### Exercises
 
-[wtfiswronghere](https://github.com/qxf2/wtfiswronghere): Practice Python debugging and error fixing.
