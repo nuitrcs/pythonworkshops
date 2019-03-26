@@ -67,3 +67,6 @@ Jupyter notebooks were previously called iPython notebooks as well.
 
 [PyCharm Videos](https://www.youtube.com/playlist?list=PLQ176FUIyIUY5Ii58pzoZhS_3qIBL80nz)
 
+### Exercises
+
+[wtfiswronghere](https://github.com/qxf2/wtfiswronghere): Practice Python debugging and error fixing.
