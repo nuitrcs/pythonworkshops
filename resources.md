@@ -5,8 +5,6 @@ This list has resources that may be useful across workshops.  There may be addit
 
 ## Tutorials and Books
 
-[DataCamp](https://www.datacamp.com): online interactive tutorials.  The intro course is available for free, but other courses require a subscription.  Research Computing is currently providing access for Northwestern researchers.  [Apply for access](http://www.it.northwestern.edu/research/campus-events/data-camp.html).
-
 [Exploratory Computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/): notebooks and videos covering common tasks researchers might want to do with Python for exploring data.  Intro Python topics are covered alongside data analysis and plotting examples.
 
 [UC Boulder Python for Data Analysis](https://github.com/ResearchComputing/Meetup-Fall-2013): workshop materials from some of our research computing colleagues at UC Boulder.  Includes exercises.
@@ -27,7 +25,7 @@ This list has resources that may be useful across workshops.  There may be addit
 
 ## Reference Materials
 
-[Python Basics Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf): one page pdf with reminders of basic string, list, and Numpy array operations
+[Python Basics Cheat Sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
 
 [Chris Albon's Blog](https://chrisalbon.com/#Blog): not limited to Python, but does include an extensive set of examples of common Python operations.  Also lots of notes on data science and machine learning topics.
 
@@ -44,8 +42,6 @@ Jupyter notebooks were previously called iPython notebooks as well.
 [Jupyter Notebook Video Tour](https://www.youtube.com/watch?v=HW29067qVWk): if you like videos, this one give you an overview of how to use Jupyter Notebook
 
 [Jupyter Notebook Beginner Guide](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html): a good place to start with witten documentation
-
-[DataCamp Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook): more detail than most beginners will need, but a useful reference
 
 [Jupyter Notebook Users Manual](https://athena.brynmawr.edu/jupyter/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb): users manual in notebook form.  Includes an explanation of the buttons in the toolbar.
 
