@@ -4,7 +4,7 @@ This repository is a clearing house for resources for individual Python workshop
 
 # Workshops
 
-[Intro to Programming with Python](https://github.com/nuitrcs/intro-programming-python-jun-2018)
+[Intro to Python](https://github.com/nuitrcs/intro-python-summer2019)
 
 [Python Visualization](https://github.com/nuitrcs/pythonvisualization)
 
