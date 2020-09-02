@@ -12,7 +12,7 @@ There are two options for opening and running Jupyter Notebooks:
 
 Python Fundamentals (Coming Soon)
 
-[Next Steps in Python series for advanced-beginner and intermediate Python coders] (https://github.com/nuitrcs/NextStepsInPython)
+[Next Steps in Python](https://github.com/nuitrcs/NextStepsInPython) tutorials for advanced-beginner and intermediate Python coders
 
 ## Past Workshops
 
