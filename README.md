@@ -1,8 +1,22 @@
-# Northwestern Research Computing Python Workshops
+## Northwestern University Research Computing Services
+# Python Workshops
 
-This repository is a clearing house for resources for individual Python workshops from [Research Computing Services](http://www.it.northwestern.edu/research/).  Materials from past workshops have been moved to separate repositories.  See the links below for individual repositories corresponding to workshop topics.  
+This repository contains links to the materials used in our most current Python workshops. Some of the materials are self-guided -- you can work through the notebooks at your own pace. Some of the workshops utilize Jupyter Notebooks.
+
+### How to use Jupyter Notebooks
+There are two options for opening and running Jupyter Notebooks:
+1. **On your own computer.** If you have the Anaconda distribution of Python and Jupyter and/or you are comfortable installing Python packages, you can run the notebooks on your own computer. Choose a workshop from the list below and click on the link. From the repo, click on the green Code button and choose Download ZIP. Unzip the folder. Open Anaconda Navigator and choose either Jupyter Lab or Jupyter Notebook. In Jupyter, navigate to the folder you just unzipped and select the desired notebook (Jupyter notebooks end in .ipynb).
+2. **On the cloud.** You can also run the notebooks online through Google Colab. Choose a workshop from the list below and click on the link. Click on the desired notebook (Jupyter notebooks end in .ipynb). You should see a badge at the top of the notebook that says "Open in Colab". Right-click on the badge and choose Open Link in New Tab.
 
 # Workshops
+
+Python Fundamentals (Coming Soon)
+
+[Next Steps in Python series for advanced-beginner and intermediate Python coders] (https://github.com/nuitrcs/NextStepsInPython)
+
+## Past Workshops
+
+Previous versions of Python workshops.
 
 [Intro to Python](https://github.com/nuitrcs/intro-python-summer2019)
 
@@ -13,10 +27,6 @@ This repository is a clearing house for resources for individual Python workshop
 [Numpy/Scipy](https://github.com/nuitrcs/numpy-scipy-workshop)
 
 [Statistical and Machine Learning Models](https://github.com/nuitrcs/python-models)
-
-## Past Workshops
-
-Previous versions of Python workshops.
 
 [Intro to Programming with Python](https://github.com/nuitrcs/intro-programming-python)
 
