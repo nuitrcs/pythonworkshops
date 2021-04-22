@@ -10,7 +10,12 @@ There are two options for opening and running Jupyter Notebooks:
 
 # Workshops
 
-Python Fundamentals (Coming Soon)
+Python Remote Bootcamp
+* [Monday](https://github.com/aGitHasNoName/pythonBootcampMonday)
+* [Tuesday](https://github.com/aGitHasNoName/pythonBootcampTuesday)
+* [Wednesday](https://github.com/aGitHasNoName/pythonBootcampWednesday)
+* [Thursday](https://github.com/aGitHasNoName/pythonBootcampThursday)
+* [Friday](https://github.com/aGitHasNoName/pythonBootcampFriday)
 
 [Next Steps in Python](https://github.com/nuitrcs/NextStepsInPython) tutorials for advanced-beginner and intermediate Python coders
 
