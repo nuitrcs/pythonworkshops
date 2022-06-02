@@ -28,7 +28,7 @@ There are two options for opening and running Jupyter Notebooks:
 <br>[Wednesday Quiz Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcamp_3Day/blob/main/wednesdayQuiz-answers.ipynb)
 
 ### <br>Pandas Basics
-<br>Learn how to work with data shaped in rows and columns
+Learn how to work with data shaped in rows and columns
 <br>
 <br>[Materials for working on your own computer](https://github.com/aGitHasNoName/pandasBasics)
 <br>
@@ -44,73 +44,69 @@ There are two options for opening and running Jupyter Notebooks:
 <br>[Day 5 link](https://colab.research.google.com/github/aGitHasNoName/pandasBasics/blob/main/Day5.ipynb)
 <br>
 <br>
-### <br>Intermediate Skills (that will make your life easier)
-<br>Highly recommended for all Python coders - fstrings, list comprehensions, json/pickle files, and more.
+### <br>Next Steps in Python
+Intermediate Skills that will make your life easier
 <br>
 #### <br>fstrings
-<br>
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/NSIPfstrings)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/NSIPfstrings)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/NSIPfstrings/blob/main/fstrings.ipynb)
 <br>[Colab answer key](https://colab.research.google.com/github/aGitHasNoName/NSIPfstrings/blob/main/fstrings-answers.ipynb)
 <br>
 #### <br>list comprehensions
-<br>
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/listComprehension)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/listComprehension)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/listComprehension/blob/main/list.ipynb)
 <br>[Colab answer key](https://colab.research.google.com/github/aGitHasNoName/listComprehension/blob/main/list-answers.ipynb)
 <br> 
 #### <br>saving objects with json and pickle
-<br>
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/saveObjects)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/saveObjects)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/saveObjects/blob/main/saveObjects.ipynb)
 <br>[Colab answer key](https://colab.research.google.com/github/aGitHasNoName/saveObjects/blob/main/saveObjects-Answers.ipynb)
 <br>
 #### <br>treasures from the standard library
-<br>
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/treasure)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/treasure)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/treasure/blob/master/treasure.ipynb)
 <br>[Colab answer key](https://colab.research.google.com/github/aGitHasNoName/treasure/blob/master/treasure_answers.ipynb)
 <br>
 #### <br>troubleshooting Python code
-<br>[Materials for working on your own computer - no Colab option](https://github.com/aGitHasNoName/trouble)
+[Materials for working on your own computer - no Colab option](https://github.com/aGitHasNoName/trouble)
 <br>
 #### <br>saving functions
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/savingFunctions)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/savingFunctions)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/savingFunctions/blob/main/savingFunctions.ipynb)
 <br>
 #### <br>finding patterns in strings
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/patterns)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/patterns)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/patterns/blob/master/patterns.ipynb)
 <br>[Colab answer key](https://colab.research.google.com/github/aGitHasNoName/patterns/blob/master/patterns-Answers.ipynb)
 <br>
 #### <br>numpy arrays
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/numpy)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/numpy)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/numpy/blob/master/numpy.ipynb)
 <br>[Colab answer key](https://colab.research.google.com/github/aGitHasNoName/numpy/blob/master/numpy-answers.ipynb)
 <br>
 #### <br>lambda functions
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/lambda)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/lambda)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/lambda/blob/master/lambda.ipynb)
 <br>[Colab answer key](https://colab.research.google.com/github/aGitHasNoName/lambda/blob/master/lambda_answers.ipynb)
 <br>
 #### <br>args and kwargs
-<br>[Materials for working on your own computer](https://github.com/aGitHasNoName/args_kwargs)
+[Materials for working on your own computer](https://github.com/aGitHasNoName/args_kwargs)
 <br>
 <br>Material links for working on the cloud through Google Colab:
 <br>[Colab link](https://colab.research.google.com/github/aGitHasNoName/args_kwargs/blob/master/args_kwargs.ipynb)
@@ -118,7 +114,7 @@ There are two options for opening and running Jupyter Notebooks:
 <br>
 <br>
 ### <br>Biopython
-<br>Work with biological sequence data in Python
+Work with biological sequence data in Python
 <br>
 <br>[Materials for working on your own computer](https://github.com/agmcfarland/biopython_workshop)
 <br>
@@ -131,13 +127,13 @@ There are two options for opening and running Jupyter Notebooks:
 <br>
 <br>
 ### <br>Python for Automation
-<br>Make your code reuseable and efficient - will cover scripts, simple parallelization, and the basics of pipelines
+Make your code reuseable and efficient - scripts, simple parallelization, and the basics of pipelines
 <br>
 <br>[Materials for working on your own computer - no Colab option](https://github.com/aGitHasNoName/PythonForAutomation)
 <br>
 <br>
 ### <br>Data Viz Basics with Matplotlib
-<br>Learn how to make custom plots in Python
+Learn how to make custom plots in Python
 <br>
 <br>[Materials for working on your own computer](https://github.com/non87/python-viz-workshop)  
 <br>
@@ -148,7 +144,7 @@ There are two options for opening and running Jupyter Notebooks:
 <br>[Part 4 Colab](https://colab.research.google.com/github/non87/python-viz-workshop/blob/main/colab/python_viz_4_colab.ipynb)  
 <br>
 ### <br>Machine Learning Basics with Scikit-learn
-<br>Learn the basics of running predictive models and classifiers
+Learn the basics of running predictive models and classifiers
 <br>
 <br>[Materials for working on your own computer](https://github.com/dgzara/nuit_machine_learning_workshop) 
 <br>
@@ -163,8 +159,7 @@ There are two options for opening and running Jupyter Notebooks:
 <br>[Day_4 Answer key Colab](https://colab.research.google.com/github/dgzara/nuit_machine_learning_workshop/blob/main/Day_4_Answers.ipynb)
 <br>[Day 5 Colab](https://colab.research.google.com/github/dgzara/nuit_machine_learning_workshop/blob/main/Day_5.ipynb)
 <br>[Day_5 Answer key Colab](https://colab.research.google.com/github/dgzara/nuit_machine_learning_workshop/blob/main/Day_5_Answers.ipynb)
-[Next Steps in Python](https://github.com/nuitrcs/NextStepsInPython) tutorials for advanced-beginner and intermediate Python coders
-
+<br><br>
 ## Past Workshops
 
 Previous versions of Python workshops.
