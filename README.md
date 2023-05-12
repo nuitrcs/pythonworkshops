@@ -1,9 +1,9 @@
 ## Northwestern University Research Computing Services
 # Python Workshops
 
-#### *Info and links for Summer 2023 Python Workshops are coming soon!*
+## <br>*Info and links for Summer 2023 Python Workshops are coming soon!*
 
-This repository contains links to the materials used in our most current Python workshops. Some of the materials are self-guided -- you can work through the notebooks at your own pace. Some of the workshops utilize Jupyter Notebooks.
+<br>This repository contains links to the materials used in our most current Python workshops. Some of the materials are self-guided -- you can work through the notebooks at your own pace. Some of the workshops utilize Jupyter Notebooks.
 
 ### How to use Jupyter Notebooks
 There are two options for opening and running Jupyter Notebooks:
