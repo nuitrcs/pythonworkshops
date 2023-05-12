@@ -1,12 +1,14 @@
 ## Northwestern University Research Computing Services
 # Python Workshops
 
+#### *Info and links for Summer 2023 Python Workshops are coming soon!*
+
 This repository contains links to the materials used in our most current Python workshops. Some of the materials are self-guided -- you can work through the notebooks at your own pace. Some of the workshops utilize Jupyter Notebooks.
 
 ### How to use Jupyter Notebooks
 There are two options for opening and running Jupyter Notebooks:
-1. **On your own computer.** If you have the Anaconda distribution of Python and Jupyter and/or you are comfortable installing Python packages, you can run the notebooks on your own computer. Choose a workshop from the list below and click on the link. From the repo, click on the green Code button and choose Download ZIP. Unzip the folder. Open Anaconda Navigator and choose either Jupyter Lab or Jupyter Notebook. In Jupyter, navigate to the folder you just unzipped and select the desired notebook (Jupyter notebooks end in .ipynb).
-2. **On the cloud.** You can also run the notebooks online through Google Colab. Choose a workshop from the list below and click on the link. Click on the desired notebook (Jupyter notebooks end in .ipynb). You should see a badge at the top of the notebook that says "Open in Colab". Right-click on the badge and choose Open Link in New Tab.
+1. **On your own computer.** If you have the Anaconda distribution of Python and Jupyter and/or you are comfortable installing Python packages, you can run the notebooks on your own computer. Choose a workshop from the list below and click on the link. From the repo, click on the green Code button and choose Download ZIP. Unzip the folder. Open Anaconda Navigator and choose Jupyter Lab. In Jupyter, navigate to the folder you just unzipped and select the desired notebook (Jupyter notebooks end in .ipynb).
+2. **On the cloud.** You can also run the notebooks online through Google Colab. Choose a workshop from the list below and click on the Colab link.
 
 # Workshops
 
